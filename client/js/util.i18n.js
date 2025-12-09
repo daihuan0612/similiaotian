@@ -134,12 +134,12 @@ const LANGUAGES = {
 		flag: '🇨🇳',
 		translations: {
 			// Meta tags for SEO
-			'meta.description': '加密聊天系统 - 真正的端到端加密聊天系统，无数据库，所有消息本地加密，服务器仅做加密数据中转，支持 Cloudflare Workers、Docker、自托管和本地开发。',
+			'meta.description': '加密聊天 - 真正的端到端加密聊天系统，无数据库，所有消息本地加密，服务器仅做加密数据中转，支持 Cloudflare Workers、Docker、自托管和本地开发。',
 			'meta.keywords': '端到端加密, 安全, 聊天, WebSocket, Cloudflare Workers, JavaScript, E2EE, 匿名通信, AES, ECDH, RSA, ChaCha20, 安全, 开源, NodeCrypt, shuaiplus',
-			'meta.og_title': '加密聊天系统 - 端到端加密聊天系统',
-			'meta.og_description': '加密聊天系统 是一个端到端加密的开源聊天系统，所有加密解密均在客户端本地完成，服务器无法获取明文。支持多平台部署，安全、匿名、无历史消息。',
-			'meta.twitter_title': '加密聊天系统 - 端到端加密聊天系统',
-			'meta.twitter_description': '加密聊天系统 是一个端到端加密的开源聊天系统，所有加密解密均在客户端本地完成，服务器无法获取明文。',
+			'meta.og_title': '加密聊天 - 端到端加密聊天系统',
+			'meta.og_description': '加密聊天 是一个端到端加密的开源聊天系统，所有加密解密均在客户端本地完成，服务器无法获取明文。支持多平台部署，安全、匿名、无历史消息。',
+			'meta.twitter_title': '加密聊天 - 端到端加密聊天系统',
+			'meta.twitter_description': '加密聊天 是一个端到端加密的开源聊天系统，所有加密解密均在客户端本地完成，服务器无法获取明文。',
 			
 			// Login and main UI
 			'ui.enter_node': '进入房间',
@@ -221,7 +221,7 @@ const LANGUAGES = {
 			'help.title': '使用说明',
 			'help.back_to_login': '返回登录',
 			'help.usage_guide': '使用说明',
-			'help.what_is_nodecrypt': '🔐 什么是加密聊天系统？',			'help.what_is_nodecrypt_desc': '加密聊天系统是一个真正的端到端加密聊天系统。采用无数据库架构，所有消息在您的设备上本地加密，服务器仅作为加密数据的中转站，无法获取您的任何明文内容。',
+			'help.what_is_nodecrypt': '🔐 什么是 加密聊天？',			'help.what_is_nodecrypt_desc': '加密聊天 是一个真正的端到端加密聊天系统。采用无数据库架构，所有消息在您的设备上本地加密，服务器仅作为加密数据的中转站，无法获取您的任何明文内容。',
 			'help.how_to_start': '🚀 快速开始',
 			'help.step_username': '输入用户名',
 			'help.step_username_desc': '选择一个在房间中显示的昵称，可以是任何您喜欢的名称',
