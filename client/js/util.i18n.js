@@ -10,12 +10,12 @@ const LANGUAGES = {
 		flag: '🇺🇸',
 		translations: {
 			// Meta tags for SEO
-			'meta.description': 'NodeCrypt - True end-to-end encrypted chat system, no database, all messages encrypted locally, server only relays encrypted data, supports Cloudflare Workers, Docker, self-hosting and local development.',
-			'meta.keywords': 'end-to-end encryption, security, chat, WebSocket, Cloudflare Workers, JavaScript, E2EE, anonymous communication, AES, ECDH, RSA, ChaCha20, security, open source, NodeCrypt, shuaiplus',
-			'meta.og_title': 'NodeCrypt - End-to-End Encrypted Chat System',
-			'meta.og_description': 'NodeCrypt is a zero-knowledge, end-to-end encrypted open source chat system where all encryption and decryption is done locally on the client side, and servers cannot access plaintext. Supports multi-platform deployment, secure, anonymous, no message history.',
-			'meta.twitter_title': 'NodeCrypt - End-to-End Encrypted Chat System',
-			'meta.twitter_description': 'NodeCrypt is a zero-knowledge, end-to-end encrypted open source chat system where all encryption and decryption is done locally on the client side, and servers cannot access plaintext.',
+			'meta.description': 'encrypted chat - True end-to-end encrypted chat system, no database, all messages encrypted locally, server only relays encrypted data, supports Cloudflare Workers, Docker, self-hosting and local development.',
+			'meta.keywords': 'end-to-end encryption, security, chat, WebSocket, Cloudflare Workers, JavaScript, E2EE, anonymous communication, AES, ECDH, RSA, ChaCha20, security, open source',
+			'meta.og_title': 'encrypted chat - End-to-End Encrypted Chat System',
+			'meta.og_description': 'encrypted chat is a zero-knowledge, end-to-end encrypted open source chat system where all encryption and decryption is done locally on the client side, and servers cannot access plaintext. Supports multi-platform deployment, secure, anonymous, no message history.',
+			'meta.twitter_title': 'encrypted chat - End-to-End Encrypted Chat System',
+			'meta.twitter_description': 'encrypted chat is a zero-knowledge, end-to-end encrypted open source chat system where all encryption and decryption is done locally on the client side, and servers cannot access plaintext.',
 			
 			// Login and main UI
 			'ui.enter_node': 'Enter a Node',
@@ -96,7 +96,7 @@ const LANGUAGES = {
 			'help.title': 'User Guide',
 			'help.back_to_login': 'Back to Login',
 			'help.usage_guide': 'User Guide',
-			'help.what_is_nodecrypt': '🔐 What is NodeCrypt?',			'help.what_is_nodecrypt_desc': 'NodeCrypt is a true zero-knowledge end-to-end encrypted chat system. With a database-free architecture, all messages are encrypted locally on your device, and the server serves only as an encrypted data relay station, unable to access any of your plaintext content.',
+			'help.what_is_nodecrypt': '🔐 What isencrypted chat chat?',			'help.what_is_nodecrypt_desc': 'encrypted chat is a true zero-knowledge end-to-end encrypted chat system. With a database-free architecture, all messages are encrypted locally on your device, and the server serves only as an encrypted data relay station, unable to access any of your plaintext content.',
 			'help.how_to_start': '🚀 Quick Start',
 			'help.step_username': 'Enter Username',
 			'help.step_username_desc': 'Choose a display name for the room, can be any name you like',
@@ -134,8 +134,8 @@ const LANGUAGES = {
 		flag: '🇨🇳',
 		translations: {
 			// Meta tags for SEO
-			'meta.description': '加密聊天 - 真正的端到端加密聊天系统，无数据库，所有消息本地加密，服务器仅做加密数据中转，支持 Cloudflare Workers、Docker、自托管和本地开发。',
-			'meta.keywords': '端到端加密, 安全, 聊天, WebSocket, Cloudflare Workers, JavaScript, E2EE, 匿名通信, AES, ECDH, RSA, ChaCha20, 安全, 开源, NodeCrypt, shuaiplus',
+			'meta.description': '加密聊天 - 真正的端到端加密聊天系统，无数据库，所有消息本地加密，服务器仅做加密数据中转。',
+			'meta.keywords': '端到端加密, 安全, 聊天, WebSocket, Cloudflare Workers, JavaScript, E2EE, 匿名通信, AES, ECDH, RSA, ChaCha20, 安全, 开源',
 			'meta.og_title': '加密聊天 - 端到端加密聊天系统',
 			'meta.og_description': '加密聊天 是一个端到端加密的开源聊天系统，所有加密解密均在客户端本地完成，服务器无法获取明文。支持多平台部署，安全、匿名、无历史消息。',
 			'meta.twitter_title': '加密聊天 - 端到端加密聊天系统',
